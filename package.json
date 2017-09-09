@@ -1,0 +1,11 @@
+{
+  "name": "--save-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "test": "node_modules/.bin/jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
